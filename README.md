@@ -15,7 +15,7 @@
 - [gradientmagic](https://www.gradientmagic.com/browse)
 - [cssgradient](https://cssgradient.io/)
 - [uigradients](https://uigradients.com/#RoyalBlue+Petrol)
-#### icon:
+#### ⚡icon:
 - [fontawesome](https://fontawesome.com/icons)
 - [boxicons](https://boxicons.com/)
 - [icons8](https://icons8.com/)
