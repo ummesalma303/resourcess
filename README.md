@@ -25,3 +25,11 @@
 - [ionicons](https://ionic.io/ionicons)
 - [flaticon](https://www.flaticon.com/)
 - [react-icons](https://react-icons.github.io/react-icons/search/?q=FaMOney)
+## 🔹 Framework and Library:
+- [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
+- [shad-cdn-ui](https://ui.shadcn.com/docs/components/navigation-menu)
+- [hyperui](https://www.hyperui.dev/)
+- [navigateui](https://navigateui.com/)
+## ⚛️ REACT:
+#### 🖱️ scroll package:
+- [react-scroll](https://www.npmjs.com/package/react-scroll)
