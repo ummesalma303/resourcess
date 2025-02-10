@@ -33,3 +33,5 @@
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
+### React chart:
+- [apex-chart](https://apexcharts.com)
