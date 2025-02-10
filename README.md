@@ -35,3 +35,4 @@
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
 ### React chart:
 - [apex-chart](https://apexcharts.com)
+- [rechart](https://recharts.org/en-US/)
