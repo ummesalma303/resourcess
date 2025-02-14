@@ -35,6 +35,7 @@
 - [realtimecolor](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
+- [daisy-ui](https://daisyui.com)
 - [shad-cdn-ui](https://ui.shadcn.com/docs/components/navigation-menu)
 - [hyperui](https://www.hyperui.dev/)
 - [navigateui](https://navigateui.com/)
