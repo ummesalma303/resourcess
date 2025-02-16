@@ -39,6 +39,7 @@
 - [shad-cdn-ui](https://ui.shadcn.com/docs/components/navigation-menu)
 - [hyperui](https://www.hyperui.dev/)
 - [navigateui](https://navigateui.com/)
+- [meterial-tailwind-css](https://www.material-tailwind.com/)
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
