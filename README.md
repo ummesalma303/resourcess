@@ -46,3 +46,5 @@
 ### React chart:
 - [apex-chart](https://apexcharts.com)
 - [rechart](https://recharts.org/en-US/)
+
+- corporate ipsum
