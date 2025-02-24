@@ -40,6 +40,7 @@
 - [hyperui](https://www.hyperui.dev/)
 - [navigateui](https://navigateui.com/)
 - [meterial-tailwind-css](https://www.material-tailwind.com/)
+- [universe io](https://uiverse.io/)
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
