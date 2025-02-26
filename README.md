@@ -20,7 +20,7 @@
 - [boxicons](https://boxicons.com/)
 - [icons8](https://icons8.com/)
 - [reshot](https://www.reshot.com/)
-- https://css.gg/icons
+- [gg](https://css.gg/icons)
 - [heroicons](https://heroicons.com/)
 - [ionicons](https://ionic.io/ionicons)
 - [flaticon](https://www.flaticon.com/)
@@ -51,3 +51,4 @@
 - corporate ipsum
 ## drag and drop librery 
 - [dnd kit](https://dndkit.com/)
+- [hello-pangea](https://www.npmjs.com/package/@hello-pangea/dnd)
