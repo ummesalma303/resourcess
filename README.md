@@ -11,10 +11,12 @@
 - [color hunt](https://colorhunt.co/)
 - [htmlcolorcodes](https://htmlcolorcodes.com/)
 
-#### 🧮 gradient color genaretor:
+#### 🧮 gradient background color genaretor:
 - [gradientmagic](https://www.gradientmagic.com/browse)
 - [cssgradient](https://cssgradient.io/)
 - [uigradients](https://uigradients.com/#RoyalBlue+Petrol)
+#### background image genaretor:
+- [haikei](https://app.haikei.app/)
 #### ⚡icon:
 - [fontawesome](https://fontawesome.com/icons)
 - [boxicons](https://boxicons.com/)
@@ -33,6 +35,10 @@
 ## Website For choosing colors:
 - [WebAim](https://webaim.org/)
 - [realtimecolor](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
+## Website For choosing design:
+- [themeforest](https://themeforest.net/)
+- [dribbble](https://dribbble.com/)
+- []()
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
 - [daisy-ui](https://daisyui.com)
@@ -52,4 +58,3 @@
 ## drag and drop librery 
 - [dnd kit](https://dndkit.com/)
 - [hello-pangea](https://www.npmjs.com/package/@hello-pangea/dnd)
-- [dnd](....)
