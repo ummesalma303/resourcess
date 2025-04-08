@@ -54,6 +54,10 @@
 ### React chart:
 - [apex-chart](https://apexcharts.com)
 - [rechart](https://recharts.org/en-US/)
+  
+### react lightbox
+- [light-house](https://www.npmjs.com/package/lighthouse)
+- [light-gallery](https://www.npmjs.com/package/lightgallery)
 
 - corporate ipsum
 ## drag and drop librery 
