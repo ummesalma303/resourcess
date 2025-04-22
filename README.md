@@ -39,7 +39,6 @@
 ## Website For choosing design:
 - [themeforest](https://themeforest.net/)
 - [dribbble](https://dribbble.com/)
-- []()
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
 - [daisy-ui](https://daisyui.com)
@@ -58,8 +57,6 @@
 ### react lightbox
 - [light-house](https://www.npmjs.com/package/lighthouse)
 - [light-gallery](https://www.npmjs.com/package/lightgallery)
-
-- corporate ipsum
 ## drag and drop librery 
 - [dnd kit](https://dndkit.com/)
 - [hello-pangea](https://www.npmjs.com/package/@hello-pangea/dnd)
