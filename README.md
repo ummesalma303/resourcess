@@ -5,6 +5,10 @@
 ---------
 
 ### 🎨 CSS Resources
+#### Ui Tool:
+- [tools-ui](https://tools.ui-layouts.com/)
+- [figma](http://fihma.com/)
+- [pixo](http://pixo.com/)
 #### 🧮 color genaretor:
 - [flat ui colors](https://flatuicolors.com/)
 - [color hexa](https://www.colorhexa.com/10082a)
