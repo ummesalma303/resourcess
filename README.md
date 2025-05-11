@@ -51,6 +51,12 @@
 - [navigateui](https://navigateui.com/)
 - [meterial-tailwind-css](https://www.material-tailwind.com/)
 - [universe io](https://uiverse.io/)
+
+#### 💫loading animation:
+- [react-spinners](https://www.npmjs.com/package/react-spinners)
+- [react loader](https://mhnpd.github.io/react-loader-spinner/docs/category/components/)
+- [cssloaders](https://cssloaders.github.io/)
+- [loading.io](https://loading.io/css/)
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
