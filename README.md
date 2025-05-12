@@ -7,6 +7,7 @@
 ### 🎨 CSS Resources
 #### Ui Tool:
 - [tools-ui](https://tools.ui-layouts.com/)
+- [uiverse.io](https://uiverse.io/)
 - [figma](http://fihma.com/)
 - [pixo](http://pixo.com/)
 #### 🧮 color genaretor:
@@ -17,14 +18,14 @@
 
 #### 🧮 gradient background color genaretor:
 - [gradientmagic](https://www.gradientmagic.com/browse)
-- [cssgradient](https://cssgradient.io/)
-- [uigradients](https://uigradients.com/#RoyalBlue+Petrol)
+- [css-gradient](https://cssgradient.io/)
+- [ui-gradients](https://uigradients.com/#RoyalBlue+Petrol)
 - [gradient button](https://gradientbuttons.colorion.co/)
 #### background image genaretor:
 - [haikei](https://app.haikei.app/)
 #### ⚡icon:
-- [fontawesome](https://fontawesome.com/icons)
-- [boxicons](https://boxicons.com/)
+- [font awesome](https://fontawesome.com/icons)
+- [box icons](https://boxicons.com/)
 - [icons8](https://icons8.com/)
 - [reshot](https://www.reshot.com/)
 - [gg](https://css.gg/icons)
@@ -52,10 +53,10 @@
 - [meterial-tailwind-css](https://www.material-tailwind.com/)
 - [universe io](https://uiverse.io/)
 
-#### 💫loading animation:
+### 💫loading animation:
 - [react-spinners](https://www.npmjs.com/package/react-spinners)
 - [react loader](https://mhnpd.github.io/react-loader-spinner/docs/category/components/)
-- [cssloaders](https://cssloaders.github.io/)
+- [css loaders](https://cssloaders.github.io/)
 - [loading.io](https://loading.io/css/)
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
@@ -63,7 +64,11 @@
 ### React chart:
 - [apex-chart](https://apexcharts.com)
 - [rechart](https://recharts.org/en-US/)
-  
+### Alert Message & Modal
+- [seweet alert](https://sweetalert2.github.io/#examples)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [react-modal](https://www.npmjs.com/package/react-modal#demos)
+- 
 ### react lightbox
 - [light-house](https://www.npmjs.com/package/lighthouse)
 - [light-gallery](https://www.npmjs.com/package/lightgallery)
