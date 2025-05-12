@@ -10,6 +10,7 @@
 - [uiverse.io](https://uiverse.io/)
 - [figma](http://fihma.com/)
 - [pixo](http://pixo.com/)
+  
 #### 🧮 color genaretor:
 - [flat ui colors](https://flatuicolors.com/)
 - [color hexa](https://www.colorhexa.com/10082a)
@@ -38,12 +39,17 @@
 - [humaaans](https://www.humaaans.com/)
 - [humaaans](https://blush.design/collections/humaaans/humaaans)
 - [undraw](https://undraw.co/illustrations)
+- [drawkit](https://www.drawkit.com/)
+- 
 ## Website For choosing colors:
 - [WebAim](https://webaim.org/)
 - [realtimecolor](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
 ## Website For choosing design:
 - [themeforest](https://themeforest.net/)
 - [dribbble](https://dribbble.com/)
+- [untree](https://untree.co/)
+- [call-to-inspiration](https://calltoinspiration.com/)
+  
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
 - [daisy-ui](https://daisyui.com)
@@ -58,6 +64,7 @@
 - [react loader](https://mhnpd.github.io/react-loader-spinner/docs/category/components/)
 - [css loaders](https://cssloaders.github.io/)
 - [loading.io](https://loading.io/css/)
+  
 ## ⚛️ REACT:
 #### 🖱️ scroll package:
 - [react-scroll](https://www.npmjs.com/package/react-scroll)
