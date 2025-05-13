@@ -40,7 +40,7 @@
 - [humaaans](https://blush.design/collections/humaaans/humaaans)
 - [undraw](https://undraw.co/illustrations)
 - [drawkit](https://www.drawkit.com/)
-- 
+
 ## Website For choosing colors:
 - [WebAim](https://webaim.org/)
 - [realtimecolor](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
@@ -49,7 +49,9 @@
 - [dribbble](https://dribbble.com/)
 - [untree](https://untree.co/)
 - [call-to-inspiration](https://calltoinspiration.com/)
-  
+## Website for checking responsive:
+- [Responsive-Design-Checker](https://responsivedesignchecker.com/)
+- [am-i-responsive](https://amiresponsive.co.uk/)
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
 - [daisy-ui](https://daisyui.com)
