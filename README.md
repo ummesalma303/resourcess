@@ -3,7 +3,10 @@
 
 #### 📄 HTML Resources
 ---------
-
+#### image genaretor
+- [unsplash](https://unsplash.com/)
+- [freepik](https://www.freepik.com/)
+- [haikei](https://haikei.app/)
 ### 🎨 CSS Resources
 #### Ui Tool:
 - [tools-ui](https://tools.ui-layouts.com/)
@@ -24,6 +27,7 @@
 - [gradient button](https://gradientbuttons.colorion.co/)
 #### background image genaretor:
 - [haikei](https://app.haikei.app/)
+- 
 #### ⚡icon:
 - [font awesome](https://fontawesome.com/icons)
 - [box icons](https://boxicons.com/)
