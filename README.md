@@ -38,6 +38,7 @@
 - [ionicons](https://ionic.io/ionicons)
 - [flaticon](https://www.flaticon.com/)
 - [react-icons](https://react-icons.github.io/react-icons/search/?q=FaMOney)
+- [selfh](https://selfh.st/icons/)
 ## Illustrations
 - [storyset](https://storyset.com/)
 - [humaaans](https://www.humaaans.com/)
