@@ -66,6 +66,8 @@
 - [meterial-tailwind-css](https://www.material-tailwind.com/)
 - [universe io](https://uiverse.io/)
 - [sera ui](https://seraui.seraprogrammer.com/)
+- [flowbite](https://flowbite.com)
+- [tools.ui](https://tools.ui-layouts.com/)
 ### 💫loading animation:
 - [react-spinners](https://www.npmjs.com/package/react-spinners)
 - [react loader](https://mhnpd.github.io/react-loader-spinner/docs/category/components/)
