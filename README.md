@@ -19,6 +19,7 @@
 - [color hexa](https://www.colorhexa.com/10082a)
 - [color hunt](https://colorhunt.co/)
 - [htmlcolorcodes](https://htmlcolorcodes.com/)
+- [creative-tim](https://www.creative-tim.com/twcomponents/gradient-generator)
 
 #### 🧮 gradient background color genaretor:
 - [gradientmagic](https://www.gradientmagic.com/browse)
