@@ -55,9 +55,11 @@
 - [dribbble](https://dribbble.com/)
 - [untree](https://untree.co/)
 - [call-to-inspiration](https://calltoinspiration.com/)
+  
 ## Website for checking responsive:
 - [Responsive-Design-Checker](https://responsivedesignchecker.com/)
 - [am-i-responsive](https://amiresponsive.co.uk/)
+
 ## 🔹 Framework and Library:
 - [tailwindcss](https://tailwindcss.com/docs/installation/using-vite)
 - [daisy-ui](https://daisyui.com)
@@ -69,7 +71,9 @@
 - [sera ui](https://seraui.seraprogrammer.com/)
 - [flowbite](https://flowbite.com)
 - [tools.ui](https://tools.ui-layouts.com/)
-- [react-bytes]
+- [react-bytes](https://reactbits.dev/)
+- [sera ui](https://seraui.com/)
+  
 ### 💫loading animation:
 - [react-spinners](https://www.npmjs.com/package/react-spinners)
 - [react loader](https://mhnpd.github.io/react-loader-spinner/docs/category/components/)
