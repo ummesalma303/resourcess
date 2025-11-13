@@ -102,5 +102,9 @@
 - [hello-pangea](https://www.npmjs.com/package/@hello-pangea/dnd)
 - 
 
+## animation
+- [motion](https://motion.dev/)
+- [gsap](https://gsap.com/)
+  
 
 
